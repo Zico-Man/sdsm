@@ -1,0 +1,14 @@
+/home/zico/Documents/sdsm/bin/Debug/net10.0/sdsm
+/home/zico/Documents/sdsm/bin/Debug/net10.0/sdsm.deps.json
+/home/zico/Documents/sdsm/bin/Debug/net10.0/sdsm.runtimeconfig.json
+/home/zico/Documents/sdsm/bin/Debug/net10.0/sdsm.dll
+/home/zico/Documents/sdsm/bin/Debug/net10.0/sdsm.pdb
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.GeneratedMSBuildEditorConfig.editorconfig
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.AssemblyInfoInputs.cache
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.AssemblyInfo.cs
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.csproj.CoreCompileInputs.cache
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.dll
+/home/zico/Documents/sdsm/obj/Debug/net10.0/refint/sdsm.dll
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.pdb
+/home/zico/Documents/sdsm/obj/Debug/net10.0/sdsm.genruntimeconfig.cache
+/home/zico/Documents/sdsm/obj/Debug/net10.0/ref/sdsm.dll
